@@ -1,0 +1,16 @@
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\FinalProject.vbproj.AssemblyReference.cache
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\FinalProject.vbproj.SuggestedBindingRedirects.cache
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\FinalProject.vbproj.GenerateResource.cache
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\FinalProject.vbproj.CoreCompileInputs.cache
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.MainForm.resources
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Create_Quiz.resources
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.CreateQuestion.resources
+C:\USCA Sem2\Computer Application and Programming\Quiz Application Project\WindowsApp1\WindowsApp1\obj\Debug\FinalProject.vbproj.ResolveComReference.cache
